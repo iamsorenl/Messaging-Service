@@ -32,5 +32,5 @@
 
 More details can be found within each folder
 
-A PDF of the outlining the API used is included in this repository
+A PDF of outlining the API used is included in this repository
 
