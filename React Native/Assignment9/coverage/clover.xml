@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686443016121" clover="3.2.0">
+  <project timestamp="1686443016121" name="All files">
+    <metrics statements="357" coveredstatements="357" conditionals="81" coveredconditionals="81" methods="122" coveredmethods="122" elements="560" coveredelements="560" complexity="0" loc="357" ncloc="357" packages="7" files="28" classes="28"/>
+    <package name="Assignment9">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="30" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.assets">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="UCSCSlugLogo.png" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/assets/UCSCSlugLogo.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src">
+      <metrics statements="40" coveredstatements="40" conditionals="10" coveredconditionals="10" methods="27" coveredmethods="27"/>
+      <file name="Main.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Main.js">
+        <metrics statements="40" coveredstatements="40" conditionals="10" coveredconditionals="10" methods="27" coveredmethods="27"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="33" count="401" type="stmt"/>
+        <line num="35" count="401" type="stmt"/>
+        <line num="36" count="7" type="stmt"/>
+        <line num="39" count="401" type="stmt"/>
+        <line num="40" count="388" type="stmt"/>
+        <line num="45" count="401" type="stmt"/>
+        <line num="46" count="95" type="stmt"/>
+        <line num="47" count="6" type="stmt"/>
+        <line num="58" count="401" type="stmt"/>
+        <line num="59" count="73" type="stmt"/>
+        <line num="60" count="6" type="stmt"/>
+        <line num="71" count="401" type="stmt"/>
+        <line num="72" count="388" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="80" count="388" type="stmt"/>
+        <line num="93" count="11" type="stmt"/>
+        <line num="106" count="401" type="stmt"/>
+        <line num="107" count="243" type="stmt"/>
+        <line num="110" count="5" type="stmt"/>
+        <line num="121" count="5" type="stmt"/>
+        <line num="133" count="401" type="stmt"/>
+        <line num="142" count="486" type="stmt"/>
+        <line num="147" count="388" type="stmt"/>
+        <line num="153" count="278" type="stmt"/>
+        <line num="160" count="243" type="stmt"/>
+        <line num="167" count="82" type="stmt"/>
+        <line num="173" count="95" type="stmt"/>
+        <line num="179" count="3" type="stmt"/>
+        <line num="190" count="27" type="stmt"/>
+        <line num="201" count="14" type="stmt"/>
+        <line num="212" count="35" type="stmt"/>
+        <line num="223" count="68" type="stmt"/>
+        <line num="229" count="73" type="stmt"/>
+        <line num="235" count="27" type="stmt"/>
+        <line num="248" count="73" type="stmt"/>
+      </file>
+      <file name="Styles.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.Data">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="LoginCredentials.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Data/LoginCredentials.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="28" type="stmt"/>
+        <line num="4" count="28" type="stmt"/>
+      </file>
+      <file name="LoginResponse.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Data/LoginResponse.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="27" type="stmt"/>
+        <line num="4" count="27" type="stmt"/>
+        <line num="5" count="27" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.Model">
+      <metrics statements="77" coveredstatements="77" conditionals="39" coveredconditionals="39" methods="21" coveredmethods="21"/>
+      <file name="ViewModel.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Model/ViewModel.js">
+        <metrics statements="77" coveredstatements="77" conditionals="39" coveredconditionals="39" methods="21" coveredmethods="21"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="403" type="stmt"/>
+        <line num="28" count="401" type="stmt"/>
+        <line num="29" count="401" type="stmt"/>
+        <line num="30" count="401" type="stmt"/>
+        <line num="31" count="401" type="stmt"/>
+        <line num="32" count="401" type="stmt"/>
+        <line num="33" count="401" type="stmt"/>
+        <line num="34" count="401" type="stmt"/>
+        <line num="35" count="401" type="stmt"/>
+        <line num="36" count="401" type="stmt"/>
+        <line num="37" count="401" type="stmt"/>
+        <line num="39" count="401" type="stmt"/>
+        <line num="40" count="56" type="stmt"/>
+        <line num="41" count="28" type="stmt"/>
+        <line num="42" count="28" type="stmt"/>
+        <line num="43" count="27" type="stmt"/>
+        <line num="48" count="56" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="28" type="stmt"/>
+        <line num="53" count="401" type="stmt"/>
+        <line num="54" count="28" type="stmt"/>
+        <line num="58" count="401" type="stmt"/>
+        <line num="59" count="62" type="stmt"/>
+        <line num="60" count="62" type="stmt"/>
+        <line num="61" count="62" type="cond" truecount="4" falsecount="0"/>
+        <line num="62" count="27" type="stmt"/>
+        <line num="63" count="27" type="stmt"/>
+        <line num="67" count="62" type="stmt"/>
+        <line num="71" count="401" type="stmt"/>
+        <line num="72" count="125" type="stmt"/>
+        <line num="73" count="90" type="stmt"/>
+        <line num="74" count="90" type="stmt"/>
+        <line num="75" count="90" type="stmt"/>
+        <line num="78" count="125" type="cond" truecount="4" falsecount="0"/>
+        <line num="79" count="90" type="stmt"/>
+        <line num="84" count="401" type="stmt"/>
+        <line num="85" count="80" type="stmt"/>
+        <line num="86" count="18" type="stmt"/>
+        <line num="87" count="18" type="stmt"/>
+        <line num="91" count="18" type="stmt"/>
+        <line num="94" count="80" type="cond" truecount="2" falsecount="0"/>
+        <line num="100" count="18" type="stmt"/>
+        <line num="105" count="401" type="stmt"/>
+        <line num="106" count="72" type="stmt"/>
+        <line num="107" count="10" type="stmt"/>
+        <line num="108" count="10" type="stmt"/>
+        <line num="113" count="10" type="stmt"/>
+        <line num="115" count="12" type="stmt"/>
+        <line num="119" count="12" type="stmt"/>
+        <line num="122" count="10" type="stmt"/>
+        <line num="125" count="72" type="cond" truecount="6" falsecount="0"/>
+        <line num="126" count="10" type="stmt"/>
+        <line num="131" count="401" type="stmt"/>
+        <line num="132" count="102" type="stmt"/>
+        <line num="133" count="40" type="stmt"/>
+        <line num="134" count="40" type="stmt"/>
+        <line num="138" count="40" type="stmt"/>
+        <line num="141" count="102" type="cond" truecount="2" falsecount="0"/>
+        <line num="147" count="40" type="stmt"/>
+        <line num="152" count="401" type="stmt"/>
+        <line num="153" count="80" type="stmt"/>
+        <line num="154" count="18" type="stmt"/>
+        <line num="155" count="18" type="stmt"/>
+        <line num="159" count="18" type="stmt"/>
+        <line num="162" count="80" type="cond" truecount="2" falsecount="0"/>
+        <line num="168" count="18" type="stmt"/>
+        <line num="173" count="401" type="stmt"/>
+        <line num="174" count="88" type="stmt"/>
+        <line num="175" count="53" type="stmt"/>
+        <line num="176" count="53" type="stmt"/>
+        <line num="177" count="53" type="stmt"/>
+        <line num="178" count="4081" type="stmt"/>
+        <line num="180" count="53" type="stmt"/>
+        <line num="183" count="88" type="cond" truecount="5" falsecount="0"/>
+        <line num="184" count="53" type="stmt"/>
+        <line num="188" count="401" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.Repo">
+      <metrics statements="85" coveredstatements="85" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="17"/>
+      <file name="ChannelRepo.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/ChannelRepo.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="58" type="stmt"/>
+        <line num="3" count="58" type="stmt"/>
+        <line num="7" count="58" type="stmt"/>
+        <line num="11" count="58" type="stmt"/>
+        <line num="12" count="58" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+      </file>
+      <file name="Login.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/Login.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="28" type="stmt"/>
+        <line num="3" count="28" type="stmt"/>
+        <line num="7" count="28" type="stmt"/>
+        <line num="12" count="28" type="stmt"/>
+        <line num="13" count="27" type="stmt"/>
+      </file>
+      <file name="MemberRepo.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/MemberRepo.js">
+        <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="69" type="stmt"/>
+        <line num="8" count="69" type="stmt"/>
+        <line num="12" count="69" type="stmt"/>
+        <line num="16" count="69" type="stmt"/>
+        <line num="17" count="69" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="22" count="864" type="stmt"/>
+        <line num="23" count="16" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="25" type="stmt"/>
+        <line num="28" count="25" type="stmt"/>
+        <line num="32" count="25" type="stmt"/>
+        <line num="36" count="25" type="stmt"/>
+        <line num="37" count="25" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="46" count="6" type="stmt"/>
+        <line num="50" count="6" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+      </file>
+      <file name="MessageRepo.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/MessageRepo.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="10" type="stmt"/>
+        <line num="3" count="10" type="stmt"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+      <file name="Reset.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/Reset.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="WorkspaceRepo.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/Repo/WorkspaceRepo.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="118" type="stmt"/>
+        <line num="3" count="118" type="stmt"/>
+        <line num="7" count="118" type="stmt"/>
+        <line num="11" count="118" type="stmt"/>
+        <line num="12" count="118" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+        <line num="21" count="9" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="9" type="stmt"/>
+        <line num="29" count="9" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="35" count="9" type="stmt"/>
+        <line num="40" count="9" type="stmt"/>
+        <line num="41" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment9.src.UI">
+      <metrics statements="147" coveredstatements="147" conditionals="32" coveredconditionals="32" methods="54" coveredmethods="54"/>
+      <file name="AddChannel.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/AddChannel.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="17" type="stmt"/>
+      </file>
+      <file name="AddMembers.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/AddMembers.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="50" type="stmt"/>
+        <line num="10" count="50" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="17" count="14" type="stmt"/>
+      </file>
+      <file name="AddMessage.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/AddMessage.js">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="31" type="stmt"/>
+        <line num="17" count="31" type="stmt"/>
+        <line num="19" count="31" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="31" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="44" count="31" type="stmt"/>
+      </file>
+      <file name="AddWorkspace.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/AddWorkspace.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="44" type="stmt"/>
+        <line num="10" count="44" type="stmt"/>
+        <line num="12" count="44" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="44" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="22" count="9" type="stmt"/>
+        <line num="25" count="44" type="stmt"/>
+      </file>
+      <file name="ChannelCard.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/ChannelCard.js">
+        <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="19" count="261" type="stmt"/>
+        <line num="21" count="261" type="stmt"/>
+        <line num="23" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="9" type="stmt"/>
+        <line num="26" count="10" type="stmt"/>
+        <line num="27" count="10" type="stmt"/>
+        <line num="30" count="261" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="37" count="261" type="stmt"/>
+        <line num="38" count="219" type="stmt"/>
+        <line num="51" count="261" type="stmt"/>
+      </file>
+      <file name="ChannelList.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/ChannelList.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="207" type="stmt"/>
+        <line num="10" count="207" type="stmt"/>
+        <line num="16" count="261" type="stmt"/>
+        <line num="18" count="261" type="stmt"/>
+      </file>
+      <file name="Login.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/Login.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="122" type="stmt"/>
+        <line num="10" count="122" type="stmt"/>
+        <line num="12" count="122" type="stmt"/>
+        <line num="14" count="122" type="stmt"/>
+        <line num="15" count="28" type="stmt"/>
+        <line num="18" count="122" type="stmt"/>
+      </file>
+      <file name="MemberCard.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/MemberCard.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="14" type="stmt"/>
+        <line num="32" count="14" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+      </file>
+      <file name="Message.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/Message.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="MessageCard.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/MessageCard.js">
+        <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="32" type="stmt"/>
+        <line num="23" count="32" type="stmt"/>
+        <line num="24" count="33" type="stmt"/>
+        <line num="31" count="33" type="stmt"/>
+        <line num="35" count="33" type="stmt"/>
+        <line num="40" count="33" type="stmt"/>
+        <line num="43" count="33" type="stmt"/>
+        <line num="46" count="32" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="54" count="32" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="61" count="32" type="stmt"/>
+        <line num="62" count="29" type="stmt"/>
+        <line num="75" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="76" count="32" type="stmt"/>
+      </file>
+      <file name="MessageList.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/MessageList.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="66" type="stmt"/>
+        <line num="10" count="66" type="stmt"/>
+        <line num="16" count="32" type="stmt"/>
+        <line num="18" count="32" type="stmt"/>
+      </file>
+      <file name="SelectMemberCard.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/SelectMemberCard.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2376" type="stmt"/>
+        <line num="13" count="2376" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="29" count="2376" type="stmt"/>
+        <line num="30" count="2376" type="stmt"/>
+        <line num="44" count="2376" type="stmt"/>
+      </file>
+      <file name="SelectMembers.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/SelectMembers.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="27" type="stmt"/>
+        <line num="9" count="27" type="stmt"/>
+        <line num="15" count="3482" type="stmt"/>
+        <line num="17" count="2376" type="stmt"/>
+      </file>
+      <file name="WorkspaceCard.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/WorkspaceCard.js">
+        <metrics statements="19" coveredstatements="19" conditionals="16" coveredconditionals="16" methods="6" coveredmethods="6"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="18" count="1155" type="stmt"/>
+        <line num="20" count="1155" type="stmt"/>
+        <line num="21" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="14" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="27" count="18" type="cond" truecount="5" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="18" type="stmt"/>
+        <line num="31" count="18" type="stmt"/>
+        <line num="34" count="1155" type="stmt"/>
+        <line num="35" count="9" type="stmt"/>
+        <line num="36" count="36" type="stmt"/>
+        <line num="38" count="9" type="stmt"/>
+        <line num="41" count="1155" type="stmt"/>
+        <line num="42" count="395" type="stmt"/>
+        <line num="56" count="1155" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="395" type="stmt"/>
+        <line num="79" count="760" type="stmt"/>
+      </file>
+      <file name="WorkspaceList.js" path="/Users/Soren/Desktop/CSE118Assignments/Asgn9/Assignment9/src/UI/WorkspaceList.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="335" type="stmt"/>
+        <line num="9" count="335" type="stmt"/>
+        <line num="15" count="1155" type="stmt"/>
+        <line num="17" count="1155" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

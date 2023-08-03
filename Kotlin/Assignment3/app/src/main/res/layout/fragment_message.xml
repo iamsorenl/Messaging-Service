@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 David C. Harrison
+
+     Resources:
+     Fab: https://developer.android.com/reference/com/google/android/material/floatingactionbutton/FloatingActionButton
+     Create App Icon: https://developer.android.com/studio/write/create-app-icons#create-vector-assets
+     Navigation to New Message screen inspired by login button
+-->
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.message.MessageFragment">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="edu.ucsc.cse118.assignment3.model.SharedViewModel" />
+        <variable
+            name="messageFragment"
+            type="edu.ucsc.cse118.assignment3.ui.message.MessageFragment" />
+    </data>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/side_margin">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:itemCount="5"
+            tools:listitem="@layout/card_view_message" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/baseline_add_box_24"
+            app:layout_anchor="@id/recyclerview"
+            app:layout_anchorGravity="bottom|end" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</layout>

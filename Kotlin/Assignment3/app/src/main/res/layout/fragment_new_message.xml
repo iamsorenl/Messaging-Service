@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 David C. Harrison
+
+     Resources:
+     Aligning the "Message" text the the middle/left of the text box:
+     https://developer.android.com/reference/android/widget/EditText
+     https://developer.android.com/reference/android/view/View#attr_android:gravity
+-->
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.newMessage.NewMessageFragment">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="edu.ucsc.cse118.assignment3.model.SharedViewModel" />
+        <variable
+            name="newMessageFragment"
+            type="edu.ucsc.cse118.assignment3.ui.newMessage.NewMessageFragment" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/side_margin">
+
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:inputType="textMultiLine"
+            android:layout_gravity="top|start"
+            android:hint="@string/select_detail"
+            android:textSize="18sp"
+            android:paddingStart="8dp"
+            android:gravity="center_vertical" />
+
+        <Button
+            android:id="@+id/add_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add"
+            android:onClick="@{() -> newMessageFragment.add()}"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+
+</layout>
